@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  color: $midnightBlue;
+}
+
+body {
+  margin: 0;
+}
+
+.App {
+  background-color: $clouds;
+}

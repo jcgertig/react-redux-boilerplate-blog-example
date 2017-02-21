@@ -1,0 +1,20 @@
+.PostFormWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.PostFormInput {
+  display: flex;
+  flex: 1;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+.SubmitButton {
+  border-radius: 3px;
+  margin: 0;
+  background: $carrot;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
